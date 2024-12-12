@@ -39,5 +39,5 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=2CA5E0)](mailto:joao@fantasyhosting.com.br)
 
  ## 🎯 Estatísticas do Github
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fhostings&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fhostings&theme=github_dark) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fhostings&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fhostings&theme=github_dark) 
 </p>  
